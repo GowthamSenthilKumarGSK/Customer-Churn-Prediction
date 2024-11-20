@@ -1,6 +1,7 @@
 # Customer-Churn-Prediction
 
-Customer Churn Prediction using Python
+Customer Churn Prediction using Python.
+
 This repository contains a project that predicts customer churn and identifies loyal customers using Python and machine learning algorithms. The model provides actionable insights for businesses to enhance retention strategies and support customer acquisition efforts. Future implementations include a recommendation system powered by NLP for personalized engagement.
 
 **Features**
